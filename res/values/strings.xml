@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentsExmaple</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_view_blue">Blue Layout ...</string>
+    <string name="text_view_red">Red Layout ...</string>
+    <string name="btn_click_me">Click Me!</string>
+</resources>

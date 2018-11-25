@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FragmentBlue">
+
+    <TextView
+        android:id="@+id/txtBlue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_view_blue"
+        android:textColor="#fff"
+        android:background="#ff0000ff"
+        android:textAppearance="?android:attr/textAppearance"/>
+
+    <ListView
+        android:id="@+id/lwBlue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+
+</LinearLayout>
